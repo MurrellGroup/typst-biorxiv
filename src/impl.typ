@@ -1,10 +1,10 @@
 #let make-venue = {
   box(rect(fill: luma(140), inset: 10pt, height: 2.5cm)[
     #set text(font: "TeX Gyre Pagella", fill: white, weight: 700, size: 20pt)
-    #align(bottom)[OXFORD]
+    #align(bottom)[bio#text(red)[R]χiv]
   ])
   set text(22pt, font: "TeX Gyre Heros")
-  box(pad(left: 10pt, bottom: 10pt, [PHYSICS]))
+  box(pad(left: 10pt, bottom: 10pt, []))
 }
 
 #let template(
