@@ -78,3 +78,5 @@ One of the most direct implications of A-Mail is the solution of the Mars proble
     Visualization of the FTL Earth-to-Mars communication capabilities enabled by A-Mail.
   ],
 )
+
+#bibliography("refs.bib")
